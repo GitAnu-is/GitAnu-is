@@ -6,7 +6,7 @@
 <h3 align="center">A IT Student from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="vishmithahash" />
+  <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="GitAnu-is" />
 </p>
 
 <table align="center">
@@ -32,7 +32,13 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)   
+
+
+
+
+
+
 
 
 ### 🔝 Top Contributed Repo
