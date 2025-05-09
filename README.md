@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hello World!, I'm Anuradha Isuru 👋</h1>
+<h1 align="center"> Hello World!, I'm Anuradha Isuru 👋</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 # 💫 About Me:
