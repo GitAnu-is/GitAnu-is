@@ -1,6 +1,14 @@
 <h1 align="center"> Hello World!, I'm Anuradha Isuru 👋</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="vishmithahash" />
+</p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 # 💫 About Me:
 <br>🎯  I’m currently working on: a restaurant management system using MERN stack  <br>🤝  I’m looking to collaborate on: mobile and full-stack web development projects  <br>🆘  I’m looking for help with: deployment and server optimization  <br>🌱  I’m currently learning: React Native and R programming  <br>💬  Ask me about: Kotlin, Android app development, and MongoDB  <br>⚡  Fun fact: I love fixing bugs late at night while sipping tea 🍵<br>
 
