@@ -14,7 +14,7 @@
 <td width="50%" align="left">
 
 # 💫 About Me:
-<br>🎯  I’m currently working on: a restaurant management system using MERN stack  <br>🤝  I’m looking to collaborate on: mobile and full-stack web development projects  <br>🆘  I’m looking for help with: deployment and server optimization  <br>🌱  I’m currently learning: React Native and R programming  <br>💬  Ask me about: Kotlin, Android app development, and MongoDB  <br>⚡  Fun fact: I love fixing bugs late at night while sipping tea 🍵<br>
+<br>🎯  I’m currently working on: a restaurant management system web project using MERN stack  <br>🤝  I’m looking to collaborate on: mobile and full-stack web development projects  <br>🆘  I’m looking for help with: deployment and server optimization  <br>🌱  I’m currently learning: React Native and R programming  <br>💬  Ask me about: Kotlin, Android app development, and MongoDB  <br>⚡  Fun fact: I love fixing bugs late at night while sipping tea 🍵<br>
 
 
 ## 🌐 Socials:
