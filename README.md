@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Vishmithahash/Vishmithahash/blob/main/about.gif" width="100px">
+</p>
+
 <h1 align="center"> Hello World!, I'm Anuradha Isuru 👋</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
